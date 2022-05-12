@@ -3,4 +3,5 @@
 + I made this only for entertain
 
 - This is the Screen Shot of the Calculator
-![alt text](https://github.com/KZNR1/PythonCalculator/blob/main/CalculatorMadebyKZ.png?raw=true)
+
+![alt text](https://github.com/KZNR1/PythonCalculator/blob/main/CalculatorMadebyKZ.png)
