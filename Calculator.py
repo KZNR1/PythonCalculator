@@ -1,4 +1,4 @@
-from PyQt6 import QtCore, QtGui, QtWidgets, QtTest
+from PyQt6 import QtCore, QtWidgets, QtTest
 
 class Ui_MainForm(object):
     def mDot(self):
